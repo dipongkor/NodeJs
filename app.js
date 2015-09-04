@@ -5,7 +5,7 @@
 
 var express = require('express');
 var http = require('http');
-var path = require('path');
+var path = require('path1');
 var controllers = require('./controllers');
 var authConfig = require('./modules/configs').authConfig;
 var passport = require('passport');
