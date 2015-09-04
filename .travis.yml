@@ -7,4 +7,4 @@ install:
   - npm install
 
 after_success:
-  - "./app.js"
+  - "app.js"
